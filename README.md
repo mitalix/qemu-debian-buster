@@ -1,8 +1,8 @@
 # qemu-debian-buster
-Qemu Debian Buster
-
-
-
+Qemu Debian Buster on Archlinux
+```
+sudo pacman -S qemu-common qemu-img qemu-system-x86
+```
 Install and launch Debian/buster image in qemu
 
 
