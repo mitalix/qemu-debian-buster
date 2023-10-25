@@ -39,7 +39,7 @@ Selected Xfce to pick a slim window manager
 Deselectd "print server" and selected "ssh server"
 Accept grub boot loader on /dev/sda
 
-## Launch
+### Launch
 
 ```
 $ qemu-system-x86_64 -hda test.img -smp 4 -m 4G
