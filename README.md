@@ -72,3 +72,4 @@ $ qemu-system-x86_64 -hda test.img -smp 4 -m 4G -accel kvm
 ```
 
 
+
