@@ -48,7 +48,9 @@ $ qemu-system-x86_64 -hda test.img -smp 4 -m 4G
 ```
 
 
-
+<br>
+<br>
+<br>
 Optional With some kvm acceleration:
 
 check to see if it's in the kernel and drivers are loaded: 
