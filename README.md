@@ -27,7 +27,7 @@ Run in another window to see the screen:
 $ vncviewer :5900
 ```
 
-#Install
+# Install
 
 Run through the installer and set root and username user/password combination
 
@@ -39,7 +39,7 @@ Selected Xfce to pick a slim window manager
 Deselectd "print server" and selected "ssh server"
 Accept grub boot loader on /dev/sda
 
-#Launch
+# Launch
 
 ```
 $ qemu-system-x86_64 -hda test.img -smp 4 -m 4G
