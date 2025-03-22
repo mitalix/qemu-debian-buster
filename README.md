@@ -22,7 +22,7 @@ $ qemu-img create mydisk.img 10G
 ```
 Run qemu and wait for installer to come up:
 ```
-$ qemu-system-x86_64 -nographic -m 4G -hda test.img -kernel linux -initrd initrd.gz
+$ qemu-system-x86_64 -nographic -m 4G -hda mydisk.img -kernel linux -initrd initrd.gz
 ```
 Run in another window to see the screen:
 ```
