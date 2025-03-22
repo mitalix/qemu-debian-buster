@@ -44,7 +44,7 @@ Accept grub boot loader on /dev/sda
 ### Launch
 
 ```
-$ qemu-system-x86_64 -hda test.img -smp 4 -m 4G
+$ qemu-system-x86_64 -hda mydisk.img -smp 4 -m 4G
 ```
 
 
